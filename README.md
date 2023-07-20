@@ -1,4 +1,3 @@
-# Progress-Highlights
 # Projects Progress Highlights
 
 Welcome to my projects subpage! <br> Here, I showcase the different projects I have completed, demonstrating my ability to solve problems and create functional applications using various programming languages. Throughout my journey, I have undertaken several hands-on projects, ranging from small utilities and web applications to more complex algorithms and data structure implementations.
