@@ -16,13 +16,13 @@ Welcome to my projects subpage! <br> Here, I showcase the different projects I h
 | [Online-Magazine](https://github.com/your-username/online-magazine)                | 2023-08-15 | 2023-09-30 | ███░░░░░ |
 | [Book-Creator](https://github.com/your-username/book-creator)                      | 2023-10-01 | 2023-11-15 | ███░░░░░ |
 | [Photo-Gallery](https://github.com/your-username/photo-gallery)                    | 2023-11-20 | 2023-12-31 | ███░░░░░ |
-| [YouTubers-Diary](https://github.com/your-username/youtubers-diary)                | 2024-01-01 | 2024-02-28 | ██░░░░░░ |
-| [Game-Library](https://github.com/your-username/game-library)                      | 2024-03-01 | 2024-04-30 | ██░░░░░░ |
-| [Sentiment-Analysis-NLP](https://github.com/your-username/sentiment-analysis-nlp)  | 2024-05-01 | 2024-06-30 | ██░░░░░░ |
-| [E-commerce-Website](https://github.com/your-username/e-commerce-website)          | 2024-07-01 | 2024-08-31 | ██░░░░░░ |
-| [ML-Recommender-System](https://github.com/your-username/ml-recommender-system)    | 2024-09-01 | 2024-10-31 | ░░░░░░░░░ |
-| [Personal-Portfolio](https://github.com/your-username/personal-portfolio)          | 2024-11-01 | 2024-12-31 | ░░░░░░░░░ |
-| [Blogging-Platform](https://github.com/your-username/blogging-platform)            | 2025-01-01 | 2025-02-28 | ░░░░░░░░░ |
+| [YouTubers-Diary](https://github.com/your-username/youtubers-diary)                | 2024-01-01 | 2023-02-28 | ██░░░░░░ |
+| [Game-Library](https://github.com/your-username/game-library)                      | 2024-03-01 | 2023-04-30 | ██░░░░░░ |
+| [Sentiment-Analysis-NLP](https://github.com/your-username/sentiment-analysis-nlp)  | 2024-05-01 | 2023-06-30 | ██░░░░░░ |
+| [E-commerce-Website](https://github.com/your-username/e-commerce-website)          | 2024-07-01 | 2023-08-31 | ██░░░░░░ |
+| [ML-Recommender-System](https://github.com/your-username/ml-recommender-system)    | 2024-09-01 | 2023-10-31 | ░░░░░░░░░ |
+| [Personal-Portfolio](https://github.com/your-username/personal-portfolio)          | 2024-11-01 | 2023-12-31 | ░░░░░░░░░ |
+| [Blogging-Platform](https://github.com/your-username/blogging-platform)            | 2025-01-01 | 2024-02-28 | ░░░░░░░░░ |
 
 ## Progress Key
 
