@@ -6,20 +6,21 @@ Welcome to my Progress Highlights subpage! <br> Here, I showcase the different p
 
 | Project                                 | Start Date | End Date   | Progress |
 | --------------------------------------- | ---------- | ---------- | -------- |
-| [Angular-Todo](https://github.com/Eduardoreisboattini/angular-todo)                      | 2023-01-12 | 2023-01-30 | ████████ |
-| [Python-Data-Analysis](https://github.com/Eduardoreisboattini/python-data-analysis)      | 2023-02-15 | 2023-03-15 | █████░░░ |
-| [Image-Recognition-ML](https://github.com/Eduardoreisboattini/image-recognition-ml)      | 2023-03-20 | 2023-04-30 | ███████░ |
-| [Web-Components-Demo](https://github.com/Eduardoreisboattini/web-components-demo)        | 2023-05-23 | 2023-06-15 | ████░░░░ |
-| [News-Website](https://github.com/Eduardoreisboattini/news-website)                      | 2023-06-19 | 2023-09-30 | ███░░░░░ |
-| [Book-Creator](https://github.com/Eduardoreisboattini/book-creator)                      | 2023-01-01 | 2023-11-15 | ███░░░░░ |
-| [Photo-Gallery](https://github.com/Eduardoreisboattini/photo-gallery)                    | 2023-01-24 | 2023-12-31 | ███░░░░░ |
-| [YouTubers-Diary](https://github.com/Eduardoreisboattini/youtubers-diary)                | 2023-01-31 | 2023-09-28 | ██░░░░░░ |
-| [Game-Library](https://github.com/Eduardoreisboattini/game-library)                      | 2023-01-31 | 2023-09-30 | ██░░░░░░ |
-| [Sentiment-Analysis-NLP](https://github.com/Eduardoreisboattini/sentiment-analysis-nlp)  | 2023-05-01 | 2023-09-30 | ██░░░░░░ |
-| [E-commerce-Website](https://github.com/Eduardoreisboattini/e-commerce-website)          | 2023-07-01 | 2023-12-31 | ██░░░░░░ |
-| [ML-Recommender-System](https://github.com/Eduardoreisboattini/ml-recommender-system)    | 2023-07-01 | 2023-10-31 | ░░░░░░░░ |
-| [Personal-Portfolio](https://github.com/Eduardoreisboattini/personal-portfolio)          | 2023-07-01 | 2023-12-31 | ░░░░░░░░ |
-| [Blogging-Platform](https://github.com/Eduardoreisboattini/blogging-platform)            | 2022-07-01 | 2024-02-28 | ░░░░░░░░ |
+| [Angular-Todo](https://github.com/users/Eduardoreisboattini/projects/3)              | 2023-01-12 | 2023-01-30 | ████████ |
+| [Python-Data-Analysis](https://github.com/users/Eduardoreisboattini/projects/4)      | 2023-02-15 | 2023-03-15 | █████░░░ |
+| [Image-Recognition-ML](https://github.com/users/Eduardoreisboattini/projects/5)      | 2023-03-20 | 2023-04-30 | ███████░ |
+| [Web-Components-Demo](https://github.com/users/Eduardoreisboattini/projects/6)       | 2023-05-23 | 2023-06-15 | ████░░░░ |
+| [News-Website](https://github.com/users/Eduardoreisboattini/projects/8)              | 2023-06-19 | 2023-09-30 | ███░░░░░ |
+| [Book-Creator](https://github.com/users/Eduardoreisboattini/projects/10)             | 2023-01-01 | 2023-11-15 | ███░░░░░ |
+| [Photo-Gallery](https://github.com/users/Eduardoreisboattini/projects/11)            | 2023-01-24 | 2023-12-31 | ███░░░░░ |
+| [YouTubers-Diary](https://github.com/users/Eduardoreisboattini/projects/12)          | 2023-01-31 | 2023-09-28 | ██░░░░░░ |
+| [Game-Library](https://github.com/users/Eduardoreisboattini/projects/13)             | 2023-01-31 | 2023-09-30 | ██░░░░░░ |
+| [Sentiment-Analysis-NLP](https://github.com/users/Eduardoreisboattini/projects/14)   | 2023-05-01 | 2023-09-30 | ██░░░░░░ |
+| [E-commerce-Website](https://github.com/users/Eduardoreisboattini/projects/15)       | 2023-07-01 | 2023-12-31 | ██░░░░░░ |
+| [ML-Recommender-System](https://github.com/users/Eduardoreisboattini/projects/16)    | 2023-07-01 | 2023-10-31 | ░░░░░░░░ |
+| [Personal-Portfolio](https://github.com/users/Eduardoreisboattini/projects/17)       | 2023-07-01 | 2023-12-31 | ░░░░░░░░ |
+| [Blogging-Platform](https://github.com/users/Eduardoreisboattini/projects/18)        | 2022-07-01 | 2024-02-28 | ░░░░░░░░ |
+| [Online-Magazine](https://github.com/users/Eduardoreisboattini/projects/9) 	         | 2022-07-01 | 2024-02-28 | ░░░░░░░░ |
 
 ## Progress Key
 
